@@ -1,4 +1,4 @@
-# scipy-2022-salta
+# scipy-2022-Salta
 Repositorio de código para el taller de pythoncientifico.ar 
 ![](https://pythoncientifico.ar/static/assets/images/scipy-la-2022_logo.png)
 
