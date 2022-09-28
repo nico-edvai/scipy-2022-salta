@@ -7,3 +7,7 @@ En este taller iniciamos un análisis exploratorio sobre un caso real datos extr
 
 
 Será un taller ameno, donde cada participante podrá exponer sus dudas y sus ideas para luego pasar al código. Haremos un análisis de cada variable y/o dataset buscando prevenir problemas a futuros que pueden complicarnos mucho más. Las librerías que utilizaremos serán principalmente pandas y plotly. Espero nos puedas acompañar.
+
+
+![Notebook](https://github.com/nico-edvai/scipy-2022-salta/blob/main/Scipyla2022.ipynb)
+[Click me](http://www.google.com){: .btn}
